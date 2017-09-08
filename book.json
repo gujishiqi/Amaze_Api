@@ -1,5 +1,9 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [
+        "theme-api",
+        "atoc",
+        "etoc-plus"
+    ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
