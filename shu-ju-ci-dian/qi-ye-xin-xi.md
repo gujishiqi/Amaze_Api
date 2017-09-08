@@ -4,15 +4,11 @@
 | :--- | :--- | :--- |
 | id | String | 企业信息ID |
 | name | String | 企业名称 |
-|  |  |  |
+| registry | String | 登记机关 |
+
+
 
 ```
-"id": "59903e4b17322c8434661784",
-registry
-```
-
-```
-      "name": "银亿房地产股份有限公司",
       "registry": "甘肃省工商行政管理局",
       "operatingStatus": "存续（在营、开业、在册）",
       "legalRepresentative": "熊续强",
