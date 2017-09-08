@@ -7,8 +7,7 @@
 | registry | String | 登记机关 |
 | operatingStatus | String | 经营状态 |
 | legalRepresentative | String | 法人 |
-
-
+|  |  |  |
 
 ```
       "registry": "甘肃省工商行政管理局",
