@@ -14,7 +14,7 @@
 
 ```
       "name": "银亿房地产股份有限公司",
-      "registry": "甘肃省工商行政管理局",
+      "": "甘肃省工商行政管理局",
       "operatingStatus": "存续（在营、开业、在册）",
       "legalRepresentative": "熊续强",
       "registeredCapital": "305843.0395万元人民币",
