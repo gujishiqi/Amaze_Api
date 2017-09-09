@@ -8,7 +8,7 @@
 
 #### 请求URL
 
-* /api/hot/company
+* /api/company/basic
 
 #### 请求方式
 
