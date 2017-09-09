@@ -148,6 +148,7 @@
 | 参数名称 | 数据类型 | 说明 |
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
+| timeList | Object | 实际节点集合 |
 | nodes | Object | 节点 |
 | edges | Object | 边 |
 
