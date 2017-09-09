@@ -16,7 +16,7 @@
     * [S11股票&上市公司推荐](gu-796826-shang-shi-gong-si-tui-jian.md)
     * [S12股票&上市公司搜索](gao-guan-sou-suo.md)
     * [S13企业工商信息](s13qi-ye-gong-shang-xin-xi.md)
-    * S14企业高管信息
+    * [S14企业高管信息](s14qi-ye-gao-guan-xin-xi.md)
     * S15企业股东信息
     * S16上市公司十大股东
     * S17上市公司十大流通股东
