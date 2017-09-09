@@ -21,20 +21,6 @@
 | exchange | String | 股票类型 |
 | number | Long | 发送股票数量，单位为万股 |
 
-```
-
-      "businessScope": null,
-      "address": null,
-      "phone": null,
-      "province": "甘肃省",
-      "city": "兰州市",
-      "county": "城关区",
-      "code": "000981",
-      "shortName": " 银亿股份 ",
-      "time": "2000-06-22",
-      "exchange": "深市主板",
-      "number": "5000"
-```
 
 
 
