@@ -55,7 +55,7 @@
 | 参数名称 | 数据类型 | 说明 |
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
-| company | Object | 参照[企业信息](/shu-ju-ci-dian/qi-ye-xin-xi.md) |
+| ggxx | Object | 高管信息 |
 
 #### 备注
 
