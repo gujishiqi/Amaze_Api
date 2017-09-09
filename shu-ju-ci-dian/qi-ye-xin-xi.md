@@ -8,7 +8,7 @@
 | operatingStatus | String | 经营状态 |
 | legalRepresentative | String | 法人 |
 | registeredCapital | String | 注册资本的字符串描述 |
-|  |  |  |
+| establishmentDate | String | 成立日期 格式为yyyy-MM-dd |
 |  |  |  |
 |  |  |  |
 |  |  |  |
