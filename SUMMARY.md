@@ -20,9 +20,9 @@
     * [S15企业股东信息](s15qi-ye-gu-dong-xin-xi.md)
     * [S16上市公司十大股东](s16shang-shi-gong-si-shi-da-gu-dong.md)
     * [S17上市公司十大流通股东](s17shang-shi-gong-si-shi-da-liu-tong-gu-dong.md)
-    * S18企业涉税信息
-    * S19公司投资关系图谱
-    * S20上市公司动态投资关系图谱
+    * [S18企业涉税信息](s18qi-ye-she-shui-xin-xi.md)
+    * [S19公司投资关系图谱](s19gong-si-tou-zi-guan-xi-tu-pu.md)
+    * [S20上市公司动态投资关系图谱](s20shang-shi-gong-si-dong-tai-tou-zi-guan-xi-tu-pu.md)
     * [S21上市公司十大股东变化图](s21shang-shi-gong-si-shi-da-gu-dong-bian-hua-tu.md)
   * [关注](guan-zhu.md)
   * [我](wo.md)
