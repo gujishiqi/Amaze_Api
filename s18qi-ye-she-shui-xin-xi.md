@@ -8,7 +8,7 @@
 
 #### 请求URL
 
-* /api/company/person
+* /api/company/eventsNum
 
 #### 请求方式
 
