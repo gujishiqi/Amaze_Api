@@ -10,7 +10,7 @@
     * [S05企业名称推荐](qi-ye-ming-cheng-tui-jian.md)
     * [S06企业名称搜索](qi-ye-ming-cheng-sou-suo.md)
     * [S07高管推荐](gao-guan-tui-jian.md)
-    * S08高管搜索
+    * [S08高管搜索](s08gao-guan-sou-suo.md)
     * [S09税号推荐](shui-hao-tui-jian.md)
     * [S10税号搜索](shui-hao-sou-suo.md)
     * [S11股票&上市公司推荐](gu-796826-shang-shi-gong-si-tui-jian.md)
