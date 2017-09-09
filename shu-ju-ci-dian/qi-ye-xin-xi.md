@@ -9,7 +9,7 @@
 | legalRepresentative | String |  | 法人 |
 | registeredCapital | String |  | 注册资本 |
 | establishmentDate | String |  | 成立日期，yyyy-MM-dd |
-| unifiedSocialCreditCode | String |  | 统一社会信用代码，税号 |
+| unifiedSocialCreditCode | String |  | 统一社会信用代码、税号 |
 | businessScope | String |  | 经营范围 |
 | address | String |  | 地址 |
 | province | String |  | 所属省份 |
