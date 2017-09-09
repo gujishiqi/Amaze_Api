@@ -1,4 +1,4 @@
 # Amaze API
 
-文档介绍
+Amaze 接口介绍文档
 
