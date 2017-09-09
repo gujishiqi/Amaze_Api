@@ -231,6 +231,7 @@
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
 | sdgd | Object | 上市公司十大股东 |
+| time | String | 截止日期，yyyy-MM-dd |
 
 #### 备注
 
