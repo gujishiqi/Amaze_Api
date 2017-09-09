@@ -120,7 +120,9 @@
 | 参数名称 | 数据类型 | 说明 |
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
-| timeList | Object | 时间节点集合 |
+| timeList | List | 时间节点集合 |
+| name | String | 股东名称 |
+| values | List | 股东在timeList各个时间点的持股数量，单位为股 |
 
 #### 备注
 
