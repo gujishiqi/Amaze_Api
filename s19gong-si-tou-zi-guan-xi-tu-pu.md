@@ -25,27 +25,35 @@
 ```
 {
   "code": 100,
-  "company": {
-    "id": "59903e4b17322c8434661784",
-    "name": "银亿房地产股份有限公司",
-    "registry": "甘肃省工商行政管理局",
-    "operatingStatus": "存续（在营、开业、在册）",
-    "legalRepresentative": "熊续强",
-    "registeredCapital": "305843.0395万元人民币",
-    "establishmentDate": "1998-08-31",
-    "unifiedSocialCreditCode": null,
-    "businessScope": null,
-    "address": null,
-    "phone": null,
-    "province": "甘肃省",
-    "city": "兰州市",
-    "county": "城关区",
-    "code": "000981",
-    "shortName": " 银亿股份 ",
-    "time": "2000-06-22",
-    "exchange": "深市主板",
-    "number": "5000"
-  }
+  "nodes": [
+    {
+      "id": 0,
+      "name": "中国市政工程西北设计研究院有限公司",
+      "type": "企业"
+    },
+    {
+      "id": 1,
+      "name": "中国中建设计集团有限公司",
+      "type": "企业"
+    },
+    {
+      "id": 2,
+      "name": "美国aecom亚洲控股有限公司",
+      "type": "企业"
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 0,
+      "relation": "65.00%"
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "relation": "35.00%"
+    }
+  ]
 }
 ```
 
