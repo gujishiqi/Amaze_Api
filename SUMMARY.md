@@ -27,6 +27,5 @@
   * [关注](guan-zhu.md)
   * [我](wo.md)
 * [全局返回代码](数据词典.md)
-* [数据词典](shu-ju-ci-dian.md)
-  * [企业信息](shu-ju-ci-dian/qi-ye-xin-xi.md)
+* [数据词典](shu-ju-ci-dian/qi-ye-xin-xi.md)
 
