@@ -121,8 +121,6 @@
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
 | timeList | Object | 时间节点集合 |
-| nodes | Object | 节点 |
-| edges | Object | 边 |
 
 #### 备注
 
