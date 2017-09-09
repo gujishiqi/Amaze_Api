@@ -8,7 +8,7 @@
 
 #### 请求URL
 
-* /api/company/person
+* /api/company/event
 
 #### 请求方式
 
@@ -104,8 +104,6 @@
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
 | themes | Object | 涉税信息 |
-
-
 
 
 
