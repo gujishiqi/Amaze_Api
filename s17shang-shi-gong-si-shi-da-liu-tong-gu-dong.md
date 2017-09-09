@@ -8,7 +8,7 @@
 
 #### 请求URL
 
-* /api/stock/shareholder
+* /api/stock/tradableShareholder
 
 #### 请求方式
 
