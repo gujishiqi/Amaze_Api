@@ -25,20 +25,65 @@
 ```
 {
   "code": 100,
+  "timeList": [
+    "2017-02-06",
+    "2017-03-31",
+    "2017-07-28"
+  ],
   "nodes": [
     {
       "id": 0,
-      "name": "中国市政工程西北设计研究院有限公司",
+      "name": "银亿房地产股份有限公司",
       "type": "企业"
     },
     {
       "id": 1,
-      "name": "中国中建设计集团有限公司",
+      "name": "宁波银亿控股有限公司",
       "type": "企业"
     },
     {
       "id": 2,
-      "name": "美国aecom亚洲控股有限公司",
+      "name": "熊基凯",
+      "type": "个人"
+    },
+    {
+      "id": 3,
+      "name": "西藏银亿投资管理有限公司",
+      "type": "企业"
+    },
+    {
+      "id": 4,
+      "name": "鲁国华",
+      "type": "个人"
+    },
+    {
+      "id": 5,
+      "name": "孔永林",
+      "type": "个人"
+    },
+    {
+      "id": 6,
+      "name": "蒋伟平",
+      "type": "个人"
+    },
+    {
+      "id": 7,
+      "name": "周株军",
+      "type": "个人"
+    },
+    {
+      "id": 8,
+      "name": "姚佳洪",
+      "type": "个人"
+    },
+    {
+      "id": 9,
+      "name": "华福证券-兴业银行-兴发稳增-银亿股份1号集合资产管理计划",
+      "type": "企业"
+    },
+    {
+      "id": 10,
+      "name": "华宝信托有限责任公司-单一类资金信托R2007ZX111",
       "type": "企业"
     }
   ],
@@ -46,12 +91,52 @@
     {
       "source": 1,
       "target": 0,
-      "relation": "65.00%"
+      "relation": "31.190"
     },
     {
       "source": 2,
       "target": 0,
-      "relation": "35.00%"
+      "relation": "24.520"
+    },
+    {
+      "source": 3,
+      "target": 0,
+      "relation": "15.740"
+    },
+    {
+      "source": 4,
+      "target": 0,
+      "relation": "3.830"
+    },
+    {
+      "source": 5,
+      "target": 0,
+      "relation": "3.730"
+    },
+    {
+      "source": 6,
+      "target": 0,
+      "relation": "3.240"
+    },
+    {
+      "source": 7,
+      "target": 0,
+      "relation": "2.750"
+    },
+    {
+      "source": 8,
+      "target": 0,
+      "relation": "1.770"
+    },
+    {
+      "source": 9,
+      "target": 0,
+      "relation": "0.950"
+    },
+    {
+      "source": 10,
+      "target": 0,
+      "relation": "0.410"
     }
   ]
 }
