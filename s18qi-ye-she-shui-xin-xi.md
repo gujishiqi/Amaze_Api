@@ -66,6 +66,9 @@
 | --- | --- | --- |
 | code | Long | 参照[全局返回代码](/数据词典.md) |
 | eventsNum | Object | 企业涉税信息数量 |
+| type | String | 涉税主题所属类别 |
+| name | String | 涉税主题名称 |
+| themeCode | String | 涉税主题代码 |
 
 #### 备注
 
