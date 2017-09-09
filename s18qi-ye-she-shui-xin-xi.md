@@ -69,7 +69,7 @@
 | type | String | 涉税主题所属类别 |
 | name | String | 涉税主题名称 |
 | themeCode | String | 涉税主题代码 |
-| num |  |  |
+| num | Long | 涉税数据数量 |
 
 
 
