@@ -1,10 +1,4 @@
 # Amaze API
 
-
-
-
-
-
-
-Amaze 接口介绍文档
+Amaze 接口说明，
 
