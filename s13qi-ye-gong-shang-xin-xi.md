@@ -25,50 +25,27 @@
 ```
 {
   "code": 100,
-  "companys": [
-    {
-      "id": "59903e4b17322c8434661784",
-      "name": "银亿房地产股份有限公司",
-      "registry": "甘肃省工商行政管理局",
-      "operatingStatus": "存续（在营、开业、在册）",
-      "legalRepresentative": "熊续强",
-      "registeredCapital": "305843.0395万元人民币",
-      "establishmentDate": "1998-08-31",
-      "unifiedSocialCreditCode": null,
-      "businessScope": null,
-      "address": null,
-      "phone": null,
-      "province": "甘肃省",
-      "city": "兰州市",
-      "county": "城关区",
-      "code": "000981",
-      "shortName": " 银亿股份 ",
-      "time": "2000-06-22",
-      "exchange": "深市主板",
-      "number": "5000"
-    },
-    {
-      "id": "598bb81e17322c27349a3c1e",
-      "name": "中国建设银行股份有限公司本溪银亿支行",
-      "registry": "本溪市工商行政管理局",
-      "operatingStatus": "存续（在营、开业、在册）",
-      "legalRepresentative": "王厚明",
-      "registeredCapital": "",
-      "establishmentDate": "2000-03-31",
-      "unifiedSocialCreditCode": null,
-      "businessScope": null,
-      "address": null,
-      "phone": null,
-      "province": "辽宁省",
-      "city": "本溪市",
-      "county": "本溪满族自治县",
-      "code": null,
-      "shortName": null,
-      "time": null,
-      "exchange": null,
-      "number": null
-    }
-  ]
+  "company": {
+    "id": "59903e4b17322c8434661784",
+    "name": "银亿房地产股份有限公司",
+    "registry": "甘肃省工商行政管理局",
+    "operatingStatus": "存续（在营、开业、在册）",
+    "legalRepresentative": "熊续强",
+    "registeredCapital": "305843.0395万元人民币",
+    "establishmentDate": "1998-08-31",
+    "unifiedSocialCreditCode": null,
+    "businessScope": null,
+    "address": null,
+    "phone": null,
+    "province": "甘肃省",
+    "city": "兰州市",
+    "county": "城关区",
+    "code": "000981",
+    "shortName": " 银亿股份 ",
+    "time": "2000-06-22",
+    "exchange": "深市主板",
+    "number": "5000"
+  }
 }
 ```
 
