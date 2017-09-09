@@ -7,8 +7,8 @@
 | registry | String | 登记机关 |
 | operatingStatus | String | 经营状态 |
 | legalRepresentative | String | 法人 |
-| registeredCapital | String | 注册资本的字符串描述 |
-| establishmentDate | String | 成立日期 格式为yyyy-MM-dd |
+| registeredCapital | String | 注册资本 |
+| establishmentDate | String | 成立日期，格式为yyyy-MM-dd |
 | unifiedSocialCreditCode | String | 统一社会信用代码，税号 |
 | businessScope | String | 经营范围 |
 | address | String | 地址 |
@@ -17,9 +17,9 @@
 | county | String | 所属区县 |
 | code | String | 股票代码 |
 | shortName | String | 股票简称 |
-| time | String | 上市时间 格式为yyyy-MM-dd |
+| time | String | 上市时间，格式为yyyy-MM-dd |
 | exchange | String | 股票类型 |
-| number | Long | 发送股票数量 单位为万股 |
+| number | Long | 发送股票数量，单位为万股 |
 
 
 
