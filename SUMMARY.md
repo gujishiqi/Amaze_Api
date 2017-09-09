@@ -23,7 +23,7 @@
     * S18企业涉税信息
     * S19公司投资关系图谱
     * S20上市公司动态投资关系图谱
-    * S21上市公司十大股东变化图
+    * [S21上市公司十大股东变化图](s21shang-shi-gong-si-shi-da-gu-dong-bian-hua-tu.md)
   * [关注](guan-zhu.md)
   * [我](wo.md)
 * [全局返回代码](数据词典.md)
