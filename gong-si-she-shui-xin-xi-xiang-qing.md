@@ -21,7 +21,7 @@
 | name | 是 | String |  | 企业名称 |
 | themeCode | 是 | String |  | 主题代码 |
 | pageNo | 否 | int | 1 | 页码 |
-| pageSize | 否 | int | 10 | 每页条数 |
+| pageSize | 否 | int | 5 | 每页条数 |
 
 #### 返回数据示例
 
