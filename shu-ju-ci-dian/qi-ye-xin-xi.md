@@ -19,8 +19,7 @@
 | shortName | String | 股票简称 |
 | time | String | 上市时间 格式为yyyy-MM-dd |
 | exchange | String | 股票类型 |
-| number | Long | 发送股票数量，单位为万股 |
-
+| number | Long | 发送股票数量 单位为万股 |
 
 
 
