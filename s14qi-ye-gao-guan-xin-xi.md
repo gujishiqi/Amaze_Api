@@ -25,27 +25,28 @@
 ```
 {
   "code": 100,
-  "company": {
-    "id": "59903e4b17322c8434661784",
-    "name": "银亿房地产股份有限公司",
-    "registry": "甘肃省工商行政管理局",
-    "operatingStatus": "存续（在营、开业、在册）",
-    "legalRepresentative": "熊续强",
-    "registeredCapital": "305843.0395万元人民币",
-    "establishmentDate": "1998-08-31",
-    "unifiedSocialCreditCode": null,
-    "businessScope": null,
-    "address": null,
-    "phone": null,
-    "province": "甘肃省",
-    "city": "兰州市",
-    "county": "城关区",
-    "code": "000981",
-    "shortName": " 银亿股份 ",
-    "time": "2000-06-22",
-    "exchange": "深市主板",
-    "number": "5000"
-  }
+  "ggxx": [
+    {
+      "高管名称": "王宝富",
+      "高管职位": "监事"
+    },
+    {
+      "高管名称": "舒宁",
+      "高管职位": "监事"
+    },
+    {
+      "高管名称": "郝清华",
+      "高管职位": "监事"
+    },
+    {
+      "高管名称": "安小予",
+      "高管职位": "董事长"
+    },
+    {
+      "高管名称": "王清远",
+      "高管职位": "董事"
+    }
+  ]
 }
 ```
 
