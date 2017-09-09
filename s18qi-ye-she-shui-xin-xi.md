@@ -31,10 +31,12 @@
       "themes": [
         {
           "name": "资产评估",
+          "themeCode": "ZCPG",
           "num": 1
         },
         {
           "name": "股权转让",
+          "themeCode": "GQZR",
           "num": 1
         }
       ]
@@ -44,10 +46,12 @@
       "themes": [
         {
           "name": "政采采购",
+          "themeCode": "ZFCG",
           "num": 12
         },
         {
           "name": "工程招标",
+          "themeCode": "GCZB",
           "num": 1
         }
       ]
