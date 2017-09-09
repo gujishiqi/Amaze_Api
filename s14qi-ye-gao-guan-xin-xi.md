@@ -4,11 +4,11 @@
 
 #### 接口描述
 
-* 根据企业的ID获取企业的工商注册信息
+* 根据企业名称获取企业的高管信息
 
 #### 请求URL
 
-* /api/company/basic
+* /api/company/person
 
 #### 请求方式
 
