@@ -8,7 +8,7 @@
 
 #### 请求URL
 
-* /api/stock/chart
+* /api/stock/line
 
 #### 请求方式
 
