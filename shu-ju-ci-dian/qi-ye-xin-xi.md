@@ -19,7 +19,7 @@
 | shortName | String | 是 | 股票简称 |
 | time | String | 是 | 上市时间，yyyy-MM-dd |
 | exchange | String | 是 | 股票类型 |
-| number | Long | 是 | 发行股票数量（万股） |
+| number | String | 是 | 发行股票数量（万股） |
 
 
 
